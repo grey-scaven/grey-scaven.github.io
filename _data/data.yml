@@ -125,7 +125,7 @@ experiences:
         
         <b>What did I do</b>
           - 데스크톱 환경에서 HTML 기반의 Interactive e-Book 문서의 편집/배포 가능한 툴 개발
-          - 바이너리 파일의 길이, 이름을 SHA1 해시 알고리즘을 사용하여 코드화, 코드가 다를 경우 바이너리 파일을 업데이트 가능한 런쳐 개발
+          - 바이너리 파일명, 용량을 기반으로 SHA1 해시 알고리즘을 사용하여 코드화, 코드가 다를 경우 바이너리 파일을 업데이트 가능한 런쳐 개발
           - 20여 개의 동적 오브젝트를 제공하는 javaScript/jQuery 기반 컴포넌트 개발
           - WebKit2/WebView 기반의 데스크톱/모바일 Viewer 구현
           - WebKit2 Video/Audio Tag 지원을 위한 Streaming Feature 커스터마이징
@@ -229,25 +229,29 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-#
-#    toolset:
-#      - name: Python & Django
+
+    toolset:
+      - name: Java
 #        level: 98%
-#
-#      - name: Javascript & jQuery
+
+      - name: C/C++
 #        level: 98%
-#
-#      - name: Angular
+
+      - name: javascript
+
+      - name: Spring
 #        level: 98%
-#
-#      - name: HTML5 & CSS
+
+      - name: JPA/Hibernate
 #        level: 95%
-#
-#      - name: Ruby on Rails
+
+      - name: MySQL
 #        level: 85%
 #
-#      - name: Sketch & Photoshop
+      - name: Redis
 #        level: 60%
+
+      - name: Kafka
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
