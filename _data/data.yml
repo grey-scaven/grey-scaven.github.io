@@ -63,7 +63,7 @@ education:
 #          - Bullet point
 
 experiences:
-    - role: Java Back-End Developer
+    - role: Senior Back-End Developer
       time: 2016.11 - Present
       company: Coupang
       details: |
@@ -78,7 +78,7 @@ experiences:
         
         <b>What did I do</b>
           - 물류 센터의 입고 도메인 전반에 관련된 데이터 모델링, 시스템 개발
-          - 하차, 입고, 진열 및 입고된 상품의 재고화 기능 개발
+          - 하차, 입고, 진열 기능 및 입고된 상품의 재고화 기능 개발
           - 입고, 재고 기능을 MSA를 적용한 도메인 분리 프로젝트 수행, 관련 REST API 설계, 트랜잭션 롤백 시 Reverse API 적용
           - 도메인 분리 이후 타 도메인 PK의 Migration 및 성능 개선을 위한 반정규화 수행
           - REST API로 제공/저장하는 데이터들을 Kafka Pub/Sub 모델로 변경
@@ -98,17 +98,21 @@ experiences:
         그 중에서도 주로 자사의 Media Framework와 웹 브라우저의 HTML Video Element
         인터페이스를 연동하여 브라우저 내의 Audio/Video 스트리밍 기능을 개발했습니다.
         또한, 스마트 TV의 GPU 성능이 부족한 관계로 HTML 문서의 렌더링 성능을 올릴 수 있게
-        Compositing Layer의 포팅 기능을 담당했습니다.
+        Compositing Layer의 포팅 및 최적화를 진행했습니다.
         
         <b>What did I do</b>
           - Chromium Web Engine의 Media Element에 자사의 Media Framework를 연동하여 A/V Streaming 구현
           - YouTube 고해상도 Streaming 지원을 위한 Media Source Extension Spec 구현
-          - Chromium Chunk Demuxer 
+          - Chromium Chunk Demuxer 포팅 및 최적화
+          - GPU Accelerated Compositing 최적화 및 화면 스크롤, 페이지 로딩 성능 개선
           - GTK 기반 Flash Player를 Chromium Aura로 포팅
-          - 기타 Util 성 Feature를 Chromium Extension 기반 APP으로 구현
+          - Utility Feature(마우스 플릭, 오토메이션)를 Chromium Extension 기반 APP으로 구현
+          
+        <b>Tech Stack</b>
+          - Chromium, WebKit, HTML5, JQuery, SQLite, Git
 
-    - role: UI Developer
-      time: 2012 - 2014
+    - role: Software Developer
+      time: 2011.03 - 2012.08
       company: Amazon, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
