@@ -44,46 +44,31 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      안녕하세요. 이경석입니다. 현재 Senior Back-End 엔지니어 직무를 수행하고 있습니다.
+      C/C++ Server/Client Application, Chromium 기반 브라우저 개발 경험이 있으며,
+      현재는 Java/Spring 기반의 Warehouse Management System을 개발하고 있습니다.
 
-      Second paragraph if required.
+      개발을 많이 하고 싶고, 훌륭한 동료들과 협업할 수 있는 기회를 원하며, 성장하고 있는
+      비즈니스에서 좋은 서비스를 빠르게 Delivery 하고 싶습니다.
+      사용자에게 가치 있는 경험 및 서비스를 제공하는 것을 최고의 목표로 삼으며 이를 위해
+      제가 가지고 있는 역량을 온전하게 발휘할 수 있는 환경에서 일하는 것을 원합니다.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Electronics
+      university: University in Mokpo
+      time: 2001 - 2008
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+#        Input Details
+#          - Bullet point
+#          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Java Back-End Developer
+      time: 2016.11 - Present
+      company: 쿠팡
       details: |
+        쿠팡 내 물류센터의 주요 도메인인 입고, 출고, 재고관리 기능을 제공하는 Warehouse
+        Management System(WMS)
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
