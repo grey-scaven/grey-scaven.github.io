@@ -49,7 +49,7 @@ career-profile:
       현재는 Java/Spring 기반의 Warehouse Management System을 개발하고 있습니다.
 
       개발을 많이 하고 싶고, 훌륭한 동료들과 협업할 수 있는 기회를 원하며, 성장하고 있는
-      비즈니스에서 좋은 서비스를 빠르게 Delivery 하고 싶습니다.
+      비즈니스에서 좋은 서비스를 빠르게 Delivery하고 싶습니다.
       사용자에게 가치 있는 경험 및 서비스를 제공하는 것을 최고의 목표로 삼으며 이를 위해
       제가 가지고 있는 역량을 온전하게 발휘할 수 있는 환경에서 일하는 것을 원합니다.
 
@@ -71,7 +71,7 @@ experiences:
         Management System(WMS)의 개발 및 운영을 담당하고 있습니다.
         주로 입고에 관련된 기능을 담당하고 있으며 하차, 입고, 진열작업에 필요한 기능 및
         입고 작업 이후의 재고 생성 로직을 개발하였습니다.
-        WMS 서비스가 너무 비대해져서 안정적인 서비스 제공을 위해서 입고, 출고, 재고 도메인을
+        WMS 서비스가 너무 비대해져서 안정적인 서비스 제공을 위해 입고, 출고, 재고 도메인을
         Micro Service Architecture를 적용하여 분리한 경험이 있습니다.
         이로 인해 재고 생성 로직이 전부 API로 분리되었고, 동시성 이슈 및 입고 후 재고 생성을
         최대한 정확하고 안정적으로 처리하기 위한 검증 및 Reverse 로직을 면밀하게 구현하였습니다.
@@ -107,7 +107,7 @@ experiences:
           - Chromium Chunk Demuxer 포팅 및 최적화
           - GPU Accelerated Compositing 최적화 및 화면 스크롤, 페이지 로딩 성능 개선
           - GTK 기반 Flash Player를 Chromium Aura로 포팅
-          - Utility Feature(마우스 플릭, 오토메이션)를 Chromium Extension 기반 APP으로 구현
+          - Utility Feature(마우스 플릭, 오토메이션)를 Chrome Extension 기반 APP으로 구현
           
         <b>Tech Stack</b>
           - Chromium, WebKit, HTML5, jQuery, SQLite, Git
