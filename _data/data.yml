@@ -81,6 +81,7 @@ experiences:
           - 하차, 입고, 진열 기능 및 입고된 상품의 재고화 기능 개발
           - 입고, 재고 기능을 MSA를 적용한 도메인 분리 프로젝트 수행, 관련 REST API 설계, 트랜잭션 롤백 시 Reverse API 적용
           - 도메인 분리 이후 타 도메인 PK의 Migration 및 성능 개선을 위한 반정규화 수행
+          - 재고화 시 발생하는 병목현상 해결을 위하여 Completable Future를 사용한 API 병렬 요청 컴포넌트 구현
           - REST API로 제공/저장하는 데이터들을 Kafka Pub/Sub 모델로 변경
           - Non Blocking 처리, 고가용성 서비스를 위해 AWS SQS 구현체 개발 및 적용
           - REDIS(Spring Jedis) MAP, String을 사용한 시스템 속성 값 Cache 클라이언트 개발
