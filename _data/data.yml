@@ -63,8 +63,18 @@ career-profile:
 #          - Bullet point
 
 experiences:
-    - role: Senior Back-End Developer
-      time: 2016.11 - Present
+    - role: Senior Backend Software Engineer
+      time: 2020.02 - Present
+      company: Class101
+      details: |
+        
+        <b>What did I do</b>
+          
+        <b>Tech Stack</b>
+
+experiences:
+    - role: Senior Backend Software Engineer
+      time: 2016.11 - 2020.02
       company: Coupang
       details: |
         쿠팡 내 물류센터의 주요 도메인인 입고, 출고, 재고관리 기능을 제공하는 Warehouse
@@ -112,7 +122,7 @@ experiences:
         <b>Tech Stack</b>
           - Chromium, WebKit, HTML5, jQuery, SQLite, Git
 
-    - role: Software Developer
+    - role: Software Engineer
       time: 2011.03 - 2012.08
       company: ASLO
       details: |
@@ -134,7 +144,7 @@ experiences:
         <b>Tech Stack</b>
           - WebKit2, WebView, HTML5, jQuery, MFC, QT, Win32 API
           
-    - role: Software Developer
+    - role: Software Engineer
       time: 2008.01 - 2011.01
       company: 한국공간정보통신
       details: |
